@@ -1,0 +1,9 @@
+int main(){
+int i;
+while(i<3){
+int b;
+int a;
+a=b;
+}
+//int a;
+}
